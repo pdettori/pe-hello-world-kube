@@ -1,0 +1,4 @@
+# Content of templates/02-image-and-chart/skeleton/chart/values.yaml
+image:
+  # To be replaced in-place before publishing or installation.
+  tag: "%%TAG%%"
